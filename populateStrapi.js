@@ -6,27 +6,17 @@ const fileContent = JSON.parse(fs.readFileSync('data.json', 'utf8'));
 const stadiums = fileContent.data; // Access the array inside the "data" property
 
 async function importData() {
-  const token = '51c710cf1f7cb1e3263efb8aab3611d7565630777371ab7f96e977da51a63528d1e35cf773a9f09dee84c0a268afa4f51d6b0d120014ee46a58e7d8941d32c7f7b7a644e8fb774b5cb0a8a4ccf6388da45e86926f8e9f5d2c311cb83f7466dbcb6b457e78514a8bc89ae62758efdf7cc9ce270fcfe5bed6b93e742bae04ebf2a'; // Get this from Strapi admin panel
+  const token = 'bb45b193e1d0852f1894477e9673f93ed5be2a71f9f587317137a69aad88d5d21959012a1ce60f137bac3f13868ad67850580ee227fa327bcae868a6a0b3f39590c26420394e075af42be3d2fed05501b2e7b0a3f272b2bb91c96b930858a7c96c474c50249ffa785c8ca82c4fe32fae275baf86fe65e593621f0a51bccefd8a'; // Get this from Strapi admin panel
   
   try {
     for (const stadium of stadiums) {
       console.log(`Importing stadium: ${stadium.name}`);
-      
       await axios.post('http://localhost:1337/api/stadiums', {
         data: {
-        //   stadium_id: stadium.id,
-        //   country_id: stadium.country_id,
-        //   city_id: stadium.city_id,
           Name: stadium.name,
-        //   address: stadium.address,
-        //   zipcode: stadium.zipcode,
           latitude: stadium.latitude,
           longitude: stadium.longitude,
           capacity: stadium.capacity,
-        //   image_path: stadium.image_path,
-        //   city_name: stadium.city_name,
-        //   surface: stadium.surface,
-        //   national_team: stadium.national_team
         }
       }, {
         headers: {

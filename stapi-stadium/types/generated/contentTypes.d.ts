@@ -372,6 +372,7 @@ export interface AdminUser extends Struct.CollectionTypeSchema {
 export interface ApiStadiumStadium extends Struct.CollectionTypeSchema {
   collectionName: 'stadiums';
   info: {
+    description: '';
     displayName: 'stadiums';
     pluralName: 'stadiums';
     singularName: 'stadium';
@@ -384,7 +385,6 @@ export interface ApiStadiumStadium extends Struct.CollectionTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
-    image_path: Schema.Attribute.String;
     latitude: Schema.Attribute.String;
     locale: Schema.Attribute.String & Schema.Attribute.Private;
     localizations: Schema.Attribute.Relation<

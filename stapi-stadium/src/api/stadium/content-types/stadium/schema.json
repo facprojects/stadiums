@@ -4,7 +4,8 @@
   "info": {
     "singularName": "stadium",
     "pluralName": "stadiums",
-    "displayName": "stadiums"
+    "displayName": "stadiums",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -22,9 +23,6 @@
     },
     "capacity": {
       "type": "biginteger"
-    },
-    "image_path": {
-      "type": "string"
     }
   }
 }
