@@ -9,7 +9,7 @@ const map = new mapboxgl.Map({
     zoom: 2 // Initial zoom level to see global view
 });
 
-const fetchStadiums = async (page = 1, pageSize = 100) => {
+const fetchStadiums = async (page = 1, pageSize = 200) => {
     const token = 'bb45b193e1d0852f1894477e9673f93ed5be2a71f9f587317137a69aad88d5d21959012a1ce60f137bac3f13868ad67850580ee227fa327bcae868a6a0b3f39590c26420394e075af42be3d2fed05501b2e7b0a3f272b2bb91c96b930858a7c96c474c50249ffa785c8ca82c4fe32fae275baf86fe65e593621f0a51bccefd8a'; // Replace with your actual token
 
     try {
@@ -36,7 +36,7 @@ const fetchStadiums = async (page = 1, pageSize = 100) => {
 const loadAllStadiums = async () => {
     let allStadiums = [];
     let page = 1;
-    const pageSize = 100; // Adjust this to a number larger than your total count if needed
+    const pageSize = 200; // Adjust this to a number larger than your total count if needed
 
     while (true) {
         const data = await fetchStadiums(page, pageSize);

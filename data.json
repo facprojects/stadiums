@@ -13,7 +13,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/9/73.png",
             "city_name": "Paisley",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 219,
@@ -28,7 +28,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/27/219.png",
             "city_name": "Perth",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 245,
@@ -43,7 +43,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/21/245.png",
             "city_name": "Falkirk",
             "surface": "artificial turf",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 342,
@@ -58,7 +58,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/22/342.png",
             "city_name": "Herning",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 390,
@@ -73,7 +73,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/6/390.png",
             "city_name": "Aalborg",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 618,
@@ -88,7 +88,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/10/618.png",
             "city_name": "Esbjerg",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 636,
@@ -103,7 +103,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/28/636.png",
             "city_name": "Airdrie",
             "surface": "artificial turf",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 706,
@@ -118,7 +118,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/2/706.png",
             "city_name": "Dumfries",
             "surface": "artificial turf",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 827,
@@ -133,7 +133,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/27/827.png",
             "city_name": "Arbroath",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 849,
@@ -148,7 +148,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/17/849.png",
             "city_name": "Hobro",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1414,
@@ -163,7 +163,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/6/1414.png",
             "city_name": "Randers",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1436,
@@ -178,7 +178,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/28/1436.png",
             "city_name": "Farum",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1467,
@@ -193,7 +193,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/27/1467.png",
             "city_name": "Viborg",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1576,
@@ -208,7 +208,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/8/1576.png",
             "city_name": "Lyngby",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1608,
@@ -223,7 +223,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/8/1608.png",
             "city_name": "Hjørring",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 1708,
@@ -238,7 +238,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/12/1708.png",
             "city_name": "Århus",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 4541,
@@ -253,7 +253,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/29/4541.png",
             "city_name": "Herfølge",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 4832,
@@ -268,7 +268,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/0/4832.png",
             "city_name": "Vejle",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5599,
@@ -283,7 +283,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/31/5599.png",
             "city_name": "Slagelse",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5602,
@@ -298,7 +298,7 @@
             "image_path": null,
             "city_name": "Helsingør",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5603,
@@ -313,7 +313,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/3/5603.png",
             "city_name": "TRE-FOR Park",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5612,
@@ -328,7 +328,7 @@
             "image_path": "https://cdn.sportmonks.com/images/soccer/venues/12/5612.png",
             "city_name": "Hvidovre",
             "surface": "grass",
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5619,
@@ -343,7 +343,7 @@
             "image_path": null,
             "city_name": "Farum",
             "surface": null,
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5621,
@@ -358,7 +358,7 @@
             "image_path": null,
             "city_name": "Haderslev",
             "surface": null,
-            "national_team": false
+            "national_name": false
         },
         {
             "id": 5622,
@@ -373,7 +373,7 @@
             "image_path": null,
             "city_name": "Herfølge",
             "surface": null,
-            "national_team": false
+            "national_name": false
         },
 
             {
@@ -946,6 +946,313 @@
                   "latitude": "57.159167",
                   "longitude": "-2.088889",
                   "country": "Scotland"
-              }
-    ]
+              }, 
+              
+                {
+                    "name": "Almería",
+                    "capacity": 22000,
+                    "latitude": "36.84",
+                    "longitude": "-2.435278"
+                },
+                {
+                    "name": "Athletic Bilbao",
+                    "capacity": 53332,
+                    "latitude": "43.264284",
+                    "longitude": "-2.950366"
+                },
+                {
+                    "name": "Atlético Madrid",
+                    "capacity": 54851,
+                    "latitude": "40.401719",
+                    "longitude": "-3.720606"
+                },
+                {
+                    "name": "Barcelona",
+                    "capacity": 99354,
+                    "latitude": "41.38087",
+                    "longitude": "2.122802"
+                },
+                {
+                    "name": "Betis",
+                    "capacity": 52500,
+                    "latitude": "37.356389",
+                    "longitude": "-5.981389"
+                },
+                {
+                    "name": "Celta de Vigo",
+                    "capacity": 31800,
+                    "latitude": "42.211842",
+                    "longitude": "-8.739711"
+                },
+                {
+                    "name": "Elche",
+                    "capacity": 36017,
+                    "latitude": "38.266944",
+                    "longitude": "-0.663333"
+                },
+                {
+                    "name": "Espanyol",
+                    "capacity": 40500,
+                    "latitude": "41.347861",
+                    "longitude": "2.075667"
+                },
+                {
+                    "name": "Getafe",
+                    "capacity": 17700,
+                    "latitude": "40.325556",
+                    "longitude": "-3.714722"
+                },
+                {
+                    "name": "Granada",
+                    "capacity": 22524,
+                    "latitude": "37.152967",
+                    "longitude": "-3.595736"
+                },
+                {
+                    "name": "Levante",
+                    "capacity": 25534,
+                    "latitude": "39.494722",
+                    "longitude": "-0.364167"
+                },
+                {
+                    "name": "Málaga",
+                    "capacity": 30044,
+                    "latitude": "36.734092",
+                    "longitude": "-4.426422"
+                },
+                {
+                    "name": "Osasuna",
+                    "capacity": 19553,
+                    "latitude": "42.796667",
+                    "longitude": "-1.636944"
+                },
+                {
+                    "name": "Rayo Vallecano",
+                    "capacity": 15489,
+                    "latitude": "40.391944",
+                    "longitude": "-3.658961"
+                },
+                {
+                    "name": "Real Madrid",
+                    "capacity": 85454,
+                    "latitude": "40.45306",
+                    "longitude": "-3.68835"
+                },
+                {
+                    "name": "Real Sociedad",
+                    "capacity": 32076,
+                    "latitude": "43.301378",
+                    "longitude": "-1.973617"
+                },
+                {
+                    "name": "Sevilla",
+                    "capacity": 45500,
+                    "latitude": "37.384",
+                    "longitude": "-5.9705"
+                },
+                {
+                    "name": "Valencia",
+                    "capacity": 55000,
+                    "latitude": "39.474656",
+                    "longitude": "-0.358361"
+                },
+                {
+                    "name": "Valladolid",
+                    "capacity": 26512,
+                    "latitude": "41.644444",
+                    "longitude": "-4.761111"
+                },
+                {
+                    "name": "Villarreal",
+                    "capacity": 24890,
+                    "latitude": "39.944167",
+                    "longitude": "-0.103611"
+                },
+                {
+                    "name": "Deportivo La Coruña",
+                    "capacity": 34600,
+                    "latitude": "43.368714",
+                    "longitude": "-8.417516"
+                },
+                {
+                    "name": "Mallorca",
+                    "capacity": 23142,
+                    "latitude": "39.59",
+                    "longitude": "2.63"
+                },
+                {
+                    "name": "Zaragoza",
+                    "capacity": 34596,
+                    "latitude": "41.636592",
+                    "longitude": "-0.901822"
+                },
+                {
+                    "name": "Ajaccio",
+                    "capacity": 10660,
+                    "latitude": "41.931081",
+                    "longitude": "8.776725"
+                },
+                {
+                    "name": "Bastia",
+                    "capacity": 16480,
+                    "latitude": "42.6514",
+                    "longitude": "9.442619"
+                },
+                {
+                    "name": "Bordeaux",
+                    "capacity": 34462,
+                    "latitude": "44.829167",
+                    "longitude": "-0.597778"
+                },
+                {
+                    "name": "Évian",
+                    "capacity": 15660,
+                    "latitude": "45.916497",
+                    "longitude": "6.118054"
+                },
+                {
+                    "name": "Guingamp",
+                    "capacity": 18126,
+                    "latitude": "48.566285",
+                    "longitude": "-3.164599"
+                },
+                {
+                    "name": "Lille",
+                    "capacity": 50186,
+                    "latitude": "50.611883",
+                    "longitude": "3.130428"
+                },
+                {
+                    "name": "Lorient",
+                    "capacity": 18890,
+                    "latitude": "47.748747",
+                    "longitude": "-3.369367"
+                },
+                {
+                    "name": "Lyon",
+                    "capacity": 41842,
+                    "latitude": "45.723889",
+                    "longitude": "4.832222"
+                },
+                {
+                    "name": "Marseille",
+                    "capacity": 48000,
+                    "latitude": "43.269722",
+                    "longitude": "5.395833"
+                },
+                {
+                    "name": "AS Monaco",
+                    "capacity": 18500,
+                    "latitude": "43.727606",
+                    "longitude": "7.415614"
+                },
+                {
+                    "name": "Montpellier",
+                    "capacity": 32939,
+                    "latitude": "43.622222",
+                    "longitude": "3.811944"
+                },
+                {
+                    "name": "Nantes",
+                    "capacity": 38285,
+                    "latitude": "47.255631",
+                    "longitude": "-1.525375"
+                },
+                {
+                    "name": "Nice",
+                    "capacity": 35624,
+                    "latitude": "43.723328",
+                    "longitude": "7.258756"
+                },
+                {
+                    "name": "Paris Saint-Germain",
+                    "capacity": 48712,
+                    "latitude": "48.841389",
+                    "longitude": "2.253056"
+                },
+                {
+                    "name": "Reims",
+                    "capacity": 21684,
+                    "latitude": "49.246667",
+                    "longitude": "4.025"
+                },
+                {
+                    "name": "Rennes",
+                    "capacity": 31127,
+                    "latitude": "48.107458",
+                    "longitude": "-1.712839"
+                },
+                {
+                    "name": "Saint-Étienne",
+                    "capacity": 26747,
+                    "latitude": "45.460833",
+                    "longitude": "4.390278"
+                },
+                {
+                    "name": "Sochaux",
+                    "capacity": 20005,
+                    "latitude": "47.512417",
+                    "longitude": "6.8112"
+                },
+                {
+                    "name": "Toulouse",
+                    "capacity": 35470,
+                    "latitude": "43.583056",
+                    "longitude": "1.434167"
+                },
+                {
+                    "name": "Valenciennes",
+                    "capacity": 25172,
+                    "latitude": "50.348131",
+                    "longitude": "3.533027"
+                },
+                {
+                    "name": "Nancy",
+                    "capacity": 20085,
+                    "latitude": "48.6955",
+                    "longitude": "6.210687"
+                },
+                {
+                    "name": "Dijon",
+                    "capacity": 15998,
+                    "latitude": "47.324383",
+                    "longitude": "5.068342"
+                },
+                {
+                    "name": "Troyes",
+                    "capacity": 21877,
+                    "latitude": "48.307561",
+                    "longitude": "4.098458"
+                },
+                {
+                    "name": "Auxerre",
+                    "capacity": 24493,
+                    "latitude": "47.786753",
+                    "longitude": "3.588664"
+                },
+                {
+                    "name": "Brest",
+                    "capacity": 16000,
+                    "latitude": "48.402932",
+                    "longitude": "-4.461694"
+                },
+                {
+                    "name": "Caen",
+                    "capacity": 21500,
+                    "latitude": "49.179461",
+                    "longitude": "-0.396767"
+                },
+                {
+                    "name": "Sporting de Gijón",
+                    "capacity": 30000,
+                    "latitude": "43.536111",
+                    "longitude": "-5.637222"
+                },
+                {
+                    "name": "Racing de Santander",
+                    "capacity": 22222,
+                    "latitude": "43.476389",
+                    "longitude": "-3.793333"
+                }
+            ]
 }
