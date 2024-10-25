@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "stadiums",
+  "info": {
+    "singularName": "stadium",
+    "pluralName": "stadiums",
+    "displayName": "stadiums"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "latitude": {
+      "type": "string"
+    },
+    "longitude": {
+      "type": "string"
+    },
+    "capacity": {
+      "type": "biginteger"
+    },
+    "image_path": {
+      "type": "string"
+    }
+  }
+}
