@@ -377,7 +377,7 @@
         },
 
             {
-              "teamName": "Arsenal",
+              "name": "Arsenal",
               "nickname": "Arsenal",
               "city": "London",
               "stadium": "Emirates Stadium",
@@ -387,7 +387,7 @@
               "country": "England"
             },
             {
-              "teamName": "Aston Villa",
+              "name": "Aston Villa",
               "nickname": "Aston Villa",
               "city": "Birmingham",
               "stadium": "Villa Park",
@@ -397,7 +397,7 @@
               "country": "England"
             },
             {
-              "teamName": "Blackburn Rovers",
+              "name": "Blackburn Rovers",
               "nickname": "Blackburn",
               "city": "Blackburn",
               "stadium": "Ewood Park",
@@ -407,7 +407,7 @@
               "country": "England"
             },
             {
-              "teamName": "Bolton Wanderers",
+              "name": "Bolton Wanderers",
               "nickname": "Bolton",
               "city": "Bolton",
               "stadium": "Reebok Stadium",
@@ -417,7 +417,7 @@
               "country": "England"
             },
             {
-              "teamName": "Chelsea",
+              "name": "Chelsea",
               "nickname": "Chelsea",
               "city": "London",
               "stadium": "Stamford Bridge",
@@ -427,7 +427,7 @@
               "country": "England"
             },
             {
-              "teamName": "Everton",
+              "name": "Everton",
               "nickname": "Everton",
               "city": "Liverpool",
               "stadium": "Goodison Park",
@@ -437,7 +437,7 @@
               "country": "England"
             },
             {
-              "teamName": "Fulham",
+              "name": "Fulham",
               "nickname": "Fulham",
               "city": "London",
               "stadium": "Craven Cottage",
@@ -447,7 +447,7 @@
               "country": "England"
             },
             {
-              "teamName": "Liverpool",
+              "name": "Liverpool",
               "nickname": "Liverpool",
               "city": "Liverpool",
               "stadium": "Anfield",
@@ -457,7 +457,7 @@
               "country": "England"
             },
             {
-              "teamName": "Manchester City",
+              "name": "Manchester City",
               "nickname": "Man City",
               "city": "Manchester",
               "stadium": "Etihad Stadium",
@@ -467,7 +467,7 @@
               "country": "England"
             },
             {
-              "teamName": "Manchester United",
+              "name": "Manchester United",
               "nickname": "Man United",
               "city": "Stretford",
               "stadium": "Old Trafford",
@@ -477,7 +477,7 @@
               "country": "England"
             },
             {
-              "teamName": "Newcastle United",
+              "name": "Newcastle United",
               "nickname": "Newcastle",
               "city": "Newcastle upon Tyne",
               "stadium": "Sports Direct Arena",
@@ -487,7 +487,7 @@
               "country": "England"
             },
             {
-              "teamName": "Norwich City",
+              "name": "Norwich City",
               "nickname": "Norwich",
               "city": "Norwich",
               "stadium": "Carrow Road",
@@ -497,7 +497,7 @@
               "country": "England"
             },
             {
-              "teamName": "Queens Park Rangers",
+              "name": "Queens Park Rangers",
               "nickname": "QPR",
               "city": "London",
               "stadium": "Loftus Road",
@@ -507,7 +507,7 @@
               "country": "England"
             },
             {
-              "teamName": "Stoke City",
+              "name": "Stoke City",
               "nickname": "Stoke",
               "city": "Stoke-on-Trent",
               "stadium": "Britannia Stadium",
@@ -517,7 +517,7 @@
               "country": "England"
             },
             {
-              "teamName": "Sunderland",
+              "name": "Sunderland",
               "nickname": "Sunderland",
               "city": "Sunderland",
               "stadium": "Stadium of Light",
@@ -527,7 +527,7 @@
               "country": "England"
             },
             {
-              "teamName": "Swansea City",
+              "name": "Swansea City",
               "nickname": "Swansea",
               "city": "Swansea",
               "stadium": "Liberty Stadium",
@@ -537,7 +537,7 @@
               "country": "England"
             },
             {
-              "teamName": "Tottenham Hotspur",
+              "name": "Tottenham Hotspur",
               "nickname": "Tottenham",
               "city": "London",
               "stadium": "White Hart Lane",
@@ -547,7 +547,7 @@
               "country": "England"
             },
             {
-              "teamName": "West Bromwich Albion",
+              "name": "West Bromwich Albion",
               "nickname": "West Brom",
               "city": "West Bromwich",
               "stadium": "The Hawthorns",
@@ -557,7 +557,7 @@
               "country": "England"
             },
             {
-              "teamName": "Wigan Athletic",
+              "name": "Wigan Athletic",
               "nickname": "Wigan",
               "city": "Wigan",
               "stadium": "DW Stadium",
@@ -567,7 +567,7 @@
               "country": "England"
             },
             {
-              "teamName": "Wolverhampton Wanderers",
+              "name": "Wolverhampton Wanderers",
               "nickname": "Wolves",
               "city": "Wolverhampton",
               "stadium": "Molineux Stadium",
@@ -577,7 +577,7 @@
               "country": "England"
             },
             {
-              "teamName": "Barnsley",
+              "name": "Barnsley",
               "nickname": "Barnsley",
               "city": "Barnsley",
               "stadium": "Oakwell",
@@ -587,7 +587,7 @@
               "country": "England"
             },
             {
-              "teamName": "Birmingham City",
+              "name": "Birmingham City",
               "nickname": "Birmingham",
               "city": "Birmingham",
               "stadium": "St Andrew's Stadium",
@@ -597,7 +597,7 @@
               "country": "England"
             },
             {
-              "teamName": "Blackpool",
+              "name": "Blackpool",
               "nickname": "Blackpool",
               "city": "Blackpool",
               "stadium": "Bloomfield Road",
@@ -607,7 +607,7 @@
               "country": "England"
             },
             {
-              "teamName": "Brighton & Hove Albion",
+              "name": "Brighton & Hove Albion",
               "nickname": "Brighton",
               "city": "Brighton",
               "stadium": "American Express Community Stadium",
@@ -617,7 +617,7 @@
               "country": "England"
             },
             {
-              "teamName": "Bristol City",
+              "name": "Bristol City",
               "nickname": "Bristol City",
               "city": "Bristol",
               "stadium": "Ashton Gate",
@@ -627,7 +627,7 @@
               "country": "England"
             },
             {
-              "teamName": "Burnley",
+              "name": "Burnley",
               "nickname": "Burnley",
               "city": "Burnley",
               "stadium": "Turf Moor",
@@ -637,7 +637,7 @@
               "country": "England"
             },
             {
-              "teamName": "Cardiff City",
+              "name": "Cardiff City",
               "nickname": "Cardiff",
               "city": "Cardiff",
               "stadium": "Cardiff City Stadium",
@@ -647,7 +647,7 @@
               "country": "Wales"
             },
             {
-              "teamName": "Coventry City",
+              "name": "Coventry City",
               "nickname": "Coventry",
               "city": "Coventry",
               "stadium": "Ricoh Arena",
@@ -657,7 +657,7 @@
               "country": "England"
             },
             {
-              "teamName": "Crystal Palace",
+              "name": "Crystal Palace",
               "nickname": "Crystal Palace",
               "city": "London",
               "stadium": "Selhurst Park",
@@ -667,7 +667,7 @@
               "country": "England"
             },          
             {
-                "teamName": "Derby County",
+                "name": "Derby County",
                 "nickname": "Derby",
                 "city": "Derby",
                 "stadium": "Pride Park Stadium",
@@ -677,7 +677,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Doncaster Rovers",
+                "name": "Doncaster Rovers",
                 "nickname": "Doncaster",
                 "city": "Doncaster",
                 "stadium": "Keepmoat Stadium",
@@ -687,7 +687,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Hull City",
+                "name": "Hull City",
                 "nickname": "Hull",
                 "city": "Kingston upon Hull",
                 "stadium": "KC Stadium",
@@ -697,7 +697,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Ipswich Town",
+                "name": "Ipswich Town",
                 "nickname": "Ipswich",
                 "city": "Ipswich",
                 "stadium": "Portman Road",
@@ -707,7 +707,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Leeds United",
+                "name": "Leeds United",
                 "nickname": "Leeds",
                 "city": "Leeds",
                 "stadium": "Elland Road",
@@ -717,7 +717,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Leicester City",
+                "name": "Leicester City",
                 "nickname": "Leicester",
                 "city": "Leicester",
                 "stadium": "King Power Stadium",
@@ -727,7 +727,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Middlesbrough",
+                "name": "Middlesbrough",
                 "nickname": "Middlesbrough",
                 "city": "Middlesbrough",
                 "stadium": "Riverside Stadium",
@@ -737,7 +737,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Millwall",
+                "name": "Millwall",
                 "nickname": "Millwall",
                 "city": "London",
                 "stadium": "The Den",
@@ -747,7 +747,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Nottingham Forest",
+                "name": "Nottingham Forest",
                 "nickname": "Nott'm Forest",
                 "city": "Nottingham",
                 "stadium": "City Ground",
@@ -757,7 +757,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Peterborough United",
+                "name": "Peterborough United",
                 "nickname": "Peterboro",
                 "city": "Peterborough",
                 "stadium": "London Road Stadium",
@@ -767,7 +767,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Portsmouth",
+                "name": "Portsmouth",
                 "nickname": "Portsmouth",
                 "city": "Portsmouth",
                 "stadium": "Fratton Park",
@@ -777,7 +777,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Reading",
+                "name": "Reading",
                 "nickname": "Reading",
                 "city": "Reading",
                 "stadium": "Madejski Stadium",
@@ -787,7 +787,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Southampton",
+                "name": "Southampton",
                 "nickname": "Southampton",
                 "city": "Southampton",
                 "stadium": "St Mary's Stadium",
@@ -797,7 +797,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Watford",
+                "name": "Watford",
                 "nickname": "Watford",
                 "city": "Watford",
                 "stadium": "Vicarage Road",
@@ -807,7 +807,7 @@
                 "country": "England"
             },
             {
-                "teamName": "West Ham United",
+                "name": "West Ham United",
                 "nickname": "West Ham",
                 "city": "London",
                 "stadium": "Boleyn Ground",
@@ -817,7 +817,7 @@
                 "country": "England"
             },
             {
-                "teamName": "Livingston and Gretna",
+                "name": "Livingston and Gretna",
                 "nickname": "Livingston",
                 "city": "Livingston",
                 "stadium": "Almondvale Stadium",
@@ -827,7 +827,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Inverness C.T.",
+                "name": "Inverness C.T.",
                 "nickname": "Inverness C",
                 "city": "Inverness",
                 "stadium": "Caledonian Stadium",
@@ -837,7 +837,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Celtic",
+                "name": "Celtic",
                 "nickname": "Celtic",
                 "city": "Glasgow",
                 "stadium": "Celtic Park",
@@ -847,7 +847,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Dundee",
+                "name": "Dundee",
                 "nickname": "Dundee",
                 "city": "Dundee",
                 "stadium": "Dens Park",
@@ -857,7 +857,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Dunfermline Athletic",
+                "name": "Dunfermline Athletic",
                 "nickname": "Dunfermline",
                 "city": "Dunfermline",
                 "stadium": "East End Park",
@@ -867,7 +867,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Hibernian",
+                "name": "Hibernian",
                 "nickname": "Hibernian",
                 "city": "Edinburgh",
                 "stadium": "Easter Road",
@@ -877,7 +877,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Falkirk",
+                "name": "Falkirk",
                 "nickname": "Falkirk",
                 "city": "Falkirk",
                 "stadium": "Falkirk Stadium",
@@ -887,7 +887,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Motherwell and Gretna",
+                "name": "Motherwell and Gretna",
                 "nickname": "Motherwell",
                 "city": "Motherwell",
                 "stadium": "Fir Park",
@@ -897,7 +897,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Partick Thistle",
+                "name": "Partick Thistle",
                 "nickname": "Partick",
                 "city": "Glasgow",
                 "stadium": "Firhill Stadium",
@@ -907,7 +907,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Rangers",
+                "name": "Rangers",
                 "nickname": "Rangers",
                 "city": "Glasgow",
                 "stadium": "Ibrox Stadium",
@@ -917,7 +917,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "St. Johnstone",
+                "name": "St. Johnstone",
                 "nickname": "St Johnstone",
                 "city": "Perth",
                 "stadium": "McDiarmid Park",
@@ -927,7 +927,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Hamilton Academical",
+                "name": "Hamilton Academical",
                 "nickname": "Hamilton",
                 "city": "Hamilton",
                 "stadium": "New Douglas Park",
@@ -937,7 +937,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Aberdeen and Inverness C.T.",
+                "name": "Aberdeen and Inverness C.T.",
                 "nickname": "Aberdeen",
                 "city": "Aberdeen",
                 "stadium": "Pittodrie Stadium",
@@ -947,7 +947,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Kilmarnock",
+                "name": "Kilmarnock",
                 "nickname": "Kilmarnock",
                 "city": "Kilmarnock",
                 "stadium": "Rugby Park",
@@ -957,7 +957,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "St. Mirren",
+                "name": "St. Mirren",
                 "nickname": "St Mirren",
                 "city": "Paisley",
                 "stadium": "St. Mirren Park",
@@ -967,7 +967,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Dundee United",
+                "name": "Dundee United",
                 "nickname": "Dundee United",
                 "city": "Dundee",
                 "stadium": "Tannadice Park",
@@ -977,7 +977,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Heart of Midlothian",
+                "name": "Heart of Midlothian",
                 "nickname": "Hearts",
                 "city": "Edinburgh",
                 "stadium": "Tynecastle Stadium",
@@ -987,7 +987,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "Ross County",
+                "name": "Ross County",
                 "nickname": "Ross County",
                 "city": "Dingvall",
                 "stadium": "Victoria Park",
@@ -997,7 +997,7 @@
                 "country": "Scotland"
             },
             {
-                "teamName": "FC Augsburg",
+                "name": "FC Augsburg",
                 "nickname": "Augsburg",
                 "city": "Augsburg",
                 "stadium": "SGL arena",
@@ -1007,7 +1007,7 @@
                 "country": "Germany"
             },
             {
-                "teamName": "Bayer Leverkusen",
+                "name": "Bayer Leverkusen",
                 "nickname": "Leverkusen",
                 "city": "Leverkusen",
                 "stadium": "BayArena",
@@ -1017,7 +1017,7 @@
                 "country": "Germany"
             },
             {
-                "teamName": "Bayern Munich",
+                "name": "Bayern Munich",
                 "nickname": "Bayern Munich",
                 "city": "Munich",
                 "stadium": "Allianz Arena",
@@ -1027,7 +1027,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Borussia Dortmund",
+                "name": "Borussia Dortmund",
                 "nickname": "Dortmund",
                 "city": "Dortmund",
                 "stadium": "Signal Iduna Park",
@@ -1037,7 +1037,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Borussia Mönchengladbach",
+                "name": "Borussia Mönchengladbach",
                 "nickname": "M'gladbach",
                 "city": "Mönchengladbach",
                 "stadium": "Borussia-Park",
@@ -1047,7 +1047,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Eintracht Braunschweig",
+                "name": "Eintracht Braunschweig",
                 "nickname": "Braunschweig",
                 "city": "Braunschweig",
                 "stadium": "Eintracht-Stadion",
@@ -1057,7 +1057,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Eintracht Frankfurt",
+                "name": "Eintracht Frankfurt",
                 "nickname": "Ein Frankfurt",
                 "city": "Frankfurt",
                 "stadium": "Commerzbank-Arena",
@@ -1067,7 +1067,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "SC Freiburg",
+                "name": "SC Freiburg",
                 "nickname": "Freiburg",
                 "city": "Freiburg",
                 "stadium": "MAGE SOLAR Stadion",
@@ -1077,7 +1077,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Hamburger SV",
+                "name": "Hamburger SV",
                 "nickname": "Hamburg",
                 "city": "Hamburg",
                 "stadium": "Imtech Arena",
@@ -1087,7 +1087,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Hannover 96",
+                "name": "Hannover 96",
                 "nickname": "Hannover",
                 "city": "Hanover",
                 "stadium": "HDI-Arena",
@@ -1097,7 +1097,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Hertha BSC",
+                "name": "Hertha BSC",
                 "nickname": "Hertha",
                 "city": "Berlin",
                 "stadium": "Olympiastadion",
@@ -1107,7 +1107,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "TSG 1899 Hoffenheim",
+                "name": "TSG 1899 Hoffenheim",
                 "nickname": "Hoffenheim",
                 "city": "Sinsheim",
                 "stadium": "Rhein-Neckar Arena",
@@ -1117,7 +1117,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "1. FSV Mainz 05",
+                "name": "1. FSV Mainz 05",
                 "nickname": "Mainz",
                 "city": "Mainz",
                 "stadium": "Coface Arena",
@@ -1127,7 +1127,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "1. FC Nürnberg",
+                "name": "1. FC Nürnberg",
                 "nickname": "Nurnberg",
                 "city": "Nuremberg",
                 "stadium": "Grundig-Stadion",
@@ -1137,7 +1137,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Schalke 04",
+                "name": "Schalke 04",
                 "nickname": "Schalke 04",
                 "city": "Gelsenkirchen",
                 "stadium": "Veltins-Arena",
@@ -1147,7 +1147,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "VfB Stuttgart",
+                "name": "VfB Stuttgart",
                 "nickname": "Stuttgart",
                 "city": "Stuttgart",
                 "stadium": "Mercedes-Benz Arena",
@@ -1157,7 +1157,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Werder Bremen",
+                "name": "Werder Bremen",
                 "nickname": "Werder Bremen",
                 "city": "Bremen",
                 "stadium": "Weserstadion",
@@ -1167,7 +1167,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "VfL Wolfsburg",
+                "name": "VfL Wolfsburg",
                 "nickname": "Wolfsburg",
                 "city": "Wolfsburg",
                 "stadium": "Volkswagen Arena",
@@ -1177,7 +1177,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Fortuna Düsseldorf",
+                "name": "Fortuna Düsseldorf",
                 "nickname": "Fortuna Dusseldorf",
                 "city": "Düsseldorf",
                 "stadium": "Esprit Arena",
@@ -1187,7 +1187,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "SpVgg Greuther Fürth",
+                "name": "SpVgg Greuther Fürth",
                 "nickname": "Greuther Furth",
                 "city": "Fürth",
                 "stadium": "Trolli Arena",
@@ -1197,7 +1197,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "1. FC Kaiserslautern",
+                "name": "1. FC Kaiserslautern",
                 "nickname": "Kaiserslautern",
                 "city": "Kaiserslautern",
                 "stadium": "Fritz-Walter-Stadion",
@@ -1207,7 +1207,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "1. FC Köln",
+                "name": "1. FC Köln",
                 "nickname": "FC Koln",
                 "city": "Cologne",
                 "stadium": "RheinEnergieStadion",
@@ -1217,7 +1217,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "FC St. Pauli",
+                "name": "FC St. Pauli",
                 "nickname": "St Pauli",
                 "city": "Hamburg",
                 "stadium": "Millerntor-Stadion",
@@ -1227,7 +1227,7 @@
                 "country": "Germany"
               },
               {
-                "teamName": "Almería",
+                "name": "Almería",
                 "nickname": "Almeria",
                 "city": "Almería",
                 "stadium": "Estadio del Mediterráneo",
@@ -1237,7 +1237,7 @@
                 "country": "Spain"
               },
               {
-                "teamName": "Athletic Bilbao",
+                "name": "Athletic Bilbao",
                 "nickname": "Ath Bilbao",
                 "city": "Bilbao",
                 "stadium": "San Mamés",
@@ -1247,7 +1247,7 @@
                 "country": "Spain"
               },
               {
-                "teamName": "Atlético Madrid",
+                "name": "Atlético Madrid",
                 "nickname": "Ath Madrid",
                 "city": "Madrid",
                 "stadium": "Vicente Calderón",
@@ -1257,7 +1257,7 @@
                 "country": "Spain"
               },
               {
-                "teamName": "Barcelona",
+                "name": "Barcelona",
                 "nickname": "Barcelona",
                 "city": "Barcelona",
                 "stadium": "Camp Nou",
