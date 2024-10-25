@@ -374,38 +374,899 @@
             "city_name": "Herfølge",
             "surface": null,
             "national_team": false
-        }
-    ],
-    "pagination": {
-        "count": 25,
-        "per_page": 25,
-        "current_page": 1,
-        "next_page": "https://api.sportmonks.com/v3/football/venues?page=2",
-        "has_more": true
-    },
-    "subscription": [
-        {
-            "meta": [],
-            "plans": [
-                {
-                    "plan": "Football Free Plan",
-                    "sport": "Football",
-                    "category": "Standard"
-                },
-                {
-                    "plan": "Cricket Free Plan",
-                    "sport": "Cricket",
-                    "category": "Standard"
-                }
-            ],
-            "add_ons": [],
-            "widgets": []
-        }
-    ],
-    "rate_limit": {
-        "resets_in_seconds": 3599,
-        "remaining": 2999,
-        "requested_entity": "Venue"
-    },
-    "timezone": "UTC"
+        },
+
+            {
+              "teamName": "Arsenal",
+              "nickname": "Arsenal",
+              "city": "London",
+              "stadium": "Emirates Stadium",
+              "capacity": 60361,
+              "latitude": 51.555,
+              "longitude": -0.108611,
+              "country": "England"
+            },
+            {
+              "teamName": "Aston Villa",
+              "nickname": "Aston Villa",
+              "city": "Birmingham",
+              "stadium": "Villa Park",
+              "capacity": 42785,
+              "latitude": 52.509167,
+              "longitude": -1.884722,
+              "country": "England"
+            },
+            {
+              "teamName": "Blackburn Rovers",
+              "nickname": "Blackburn",
+              "city": "Blackburn",
+              "stadium": "Ewood Park",
+              "capacity": 31154,
+              "latitude": 53.728611,
+              "longitude": -2.489167,
+              "country": "England"
+            },
+            {
+              "teamName": "Bolton Wanderers",
+              "nickname": "Bolton",
+              "city": "Bolton",
+              "stadium": "Reebok Stadium",
+              "capacity": 28100,
+              "latitude": 53.580556,
+              "longitude": -2.535556,
+              "country": "England"
+            },
+            {
+              "teamName": "Chelsea",
+              "nickname": "Chelsea",
+              "city": "London",
+              "stadium": "Stamford Bridge",
+              "capacity": 42449,
+              "latitude": 51.481667,
+              "longitude": -0.191111,
+              "country": "England"
+            },
+            {
+              "teamName": "Everton",
+              "nickname": "Everton",
+              "city": "Liverpool",
+              "stadium": "Goodison Park",
+              "capacity": 40157,
+              "latitude": 53.438889,
+              "longitude": -2.966389,
+              "country": "England"
+            },
+            {
+              "teamName": "Fulham",
+              "nickname": "Fulham",
+              "city": "London",
+              "stadium": "Craven Cottage",
+              "capacity": 25700,
+              "latitude": 51.475,
+              "longitude": -0.221667,
+              "country": "England"
+            },
+            {
+              "teamName": "Liverpool",
+              "nickname": "Liverpool",
+              "city": "Liverpool",
+              "stadium": "Anfield",
+              "capacity": 45276,
+              "latitude": 53.430819,
+              "longitude": -2.960828,
+              "country": "England"
+            },
+            {
+              "teamName": "Manchester City",
+              "nickname": "Man City",
+              "city": "Manchester",
+              "stadium": "Etihad Stadium",
+              "capacity": 47405,
+              "latitude": 53.482989,
+              "longitude": -2.200292,
+              "country": "England"
+            },
+            {
+              "teamName": "Manchester United",
+              "nickname": "Man United",
+              "city": "Stretford",
+              "stadium": "Old Trafford",
+              "capacity": 75811,
+              "latitude": 53.463056,
+              "longitude": -2.291389,
+              "country": "England"
+            },
+            {
+              "teamName": "Newcastle United",
+              "nickname": "Newcastle",
+              "city": "Newcastle upon Tyne",
+              "stadium": "Sports Direct Arena",
+              "capacity": 52409,
+              "latitude": 54.975556,
+              "longitude": -1.621667,
+              "country": "England"
+            },
+            {
+              "teamName": "Norwich City",
+              "nickname": "Norwich",
+              "city": "Norwich",
+              "stadium": "Carrow Road",
+              "capacity": 27010,
+              "latitude": 52.622128,
+              "longitude": 1.308653,
+              "country": "England"
+            },
+            {
+              "teamName": "Queens Park Rangers",
+              "nickname": "QPR",
+              "city": "London",
+              "stadium": "Loftus Road",
+              "capacity": 18439,
+              "latitude": 51.509167,
+              "longitude": -0.232222,
+              "country": "England"
+            },
+            {
+              "teamName": "Stoke City",
+              "nickname": "Stoke",
+              "city": "Stoke-on-Trent",
+              "stadium": "Britannia Stadium",
+              "capacity": 27740,
+              "latitude": 52.988333,
+              "longitude": -2.175556,
+              "country": "England"
+            },
+            {
+              "teamName": "Sunderland",
+              "nickname": "Sunderland",
+              "city": "Sunderland",
+              "stadium": "Stadium of Light",
+              "capacity": 48707,
+              "latitude": 54.9144,
+              "longitude": -1.3882,
+              "country": "England"
+            },
+            {
+              "teamName": "Swansea City",
+              "nickname": "Swansea",
+              "city": "Swansea",
+              "stadium": "Liberty Stadium",
+              "capacity": 20520,
+              "latitude": 51.6422,
+              "longitude": -3.9351,
+              "country": "England"
+            },
+            {
+              "teamName": "Tottenham Hotspur",
+              "nickname": "Tottenham",
+              "city": "London",
+              "stadium": "White Hart Lane",
+              "capacity": 36230,
+              "latitude": 51.603333,
+              "longitude": -0.065833,
+              "country": "England"
+            },
+            {
+              "teamName": "West Bromwich Albion",
+              "nickname": "West Brom",
+              "city": "West Bromwich",
+              "stadium": "The Hawthorns",
+              "capacity": 27877,
+              "latitude": 52.509167,
+              "longitude": -1.963889,
+              "country": "England"
+            },
+            {
+              "teamName": "Wigan Athletic",
+              "nickname": "Wigan",
+              "city": "Wigan",
+              "stadium": "DW Stadium",
+              "capacity": 25133,
+              "latitude": 53.547778,
+              "longitude": -2.653889,
+              "country": "England"
+            },
+            {
+              "teamName": "Wolverhampton Wanderers",
+              "nickname": "Wolves",
+              "city": "Wolverhampton",
+              "stadium": "Molineux Stadium",
+              "capacity": 27828,
+              "latitude": 52.590278,
+              "longitude": -2.130278,
+              "country": "England"
+            },
+            {
+              "teamName": "Barnsley",
+              "nickname": "Barnsley",
+              "city": "Barnsley",
+              "stadium": "Oakwell",
+              "capacity": 23009,
+              "latitude": 53.552222,
+              "longitude": -1.4675,
+              "country": "England"
+            },
+            {
+              "teamName": "Birmingham City",
+              "nickname": "Birmingham",
+              "city": "Birmingham",
+              "stadium": "St Andrew's Stadium",
+              "capacity": 30079,
+              "latitude": 52.475703,
+              "longitude": -1.868189,
+              "country": "England"
+            },
+            {
+              "teamName": "Blackpool",
+              "nickname": "Blackpool",
+              "city": "Blackpool",
+              "stadium": "Bloomfield Road",
+              "capacity": 16220,
+              "latitude": 53.804722,
+              "longitude": -3.048056,
+              "country": "England"
+            },
+            {
+              "teamName": "Brighton & Hove Albion",
+              "nickname": "Brighton",
+              "city": "Brighton",
+              "stadium": "American Express Community Stadium",
+              "capacity": 22374,
+              "latitude": 50.861822,
+              "longitude": -0.083278,
+              "country": "England"
+            },
+            {
+              "teamName": "Bristol City",
+              "nickname": "Bristol City",
+              "city": "Bristol",
+              "stadium": "Ashton Gate",
+              "capacity": 21497,
+              "latitude": 51.44,
+              "longitude": -2.620278,
+              "country": "England"
+            },
+            {
+              "teamName": "Burnley",
+              "nickname": "Burnley",
+              "city": "Burnley",
+              "stadium": "Turf Moor",
+              "capacity": 22546,
+              "latitude": 53.789167,
+              "longitude": -2.230278,
+              "country": "England"
+            },
+            {
+              "teamName": "Cardiff City",
+              "nickname": "Cardiff",
+              "city": "Cardiff",
+              "stadium": "Cardiff City Stadium",
+              "capacity": 26828,
+              "latitude": 51.472778,
+              "longitude": -3.203056,
+              "country": "Wales"
+            },
+            {
+              "teamName": "Coventry City",
+              "nickname": "Coventry",
+              "city": "Coventry",
+              "stadium": "Ricoh Arena",
+              "capacity": 32609,
+              "latitude": 52.448056,
+              "longitude": -1.495556,
+              "country": "England"
+            },
+            {
+              "teamName": "Crystal Palace",
+              "nickname": "Crystal Palace",
+              "city": "London",
+              "stadium": "Selhurst Park",
+              "capacity": 26325,
+              "latitude": 51.398333,
+              "longitude": -0.085556,
+              "country": "England"
+            },          
+            {
+                "teamName": "Derby County",
+                "nickname": "Derby",
+                "city": "Derby",
+                "stadium": "Pride Park Stadium",
+                "capacity": 33597,
+                "latitude": 52.915,
+                "longitude": -1.447222,
+                "country": "England"
+            },
+            {
+                "teamName": "Doncaster Rovers",
+                "nickname": "Doncaster",
+                "city": "Doncaster",
+                "stadium": "Keepmoat Stadium",
+                "capacity": 15231,
+                "latitude": 53.509722,
+                "longitude": -1.113889,
+                "country": "England"
+            },
+            {
+                "teamName": "Hull City",
+                "nickname": "Hull",
+                "city": "Kingston upon Hull",
+                "stadium": "KC Stadium",
+                "capacity": 25404,
+                "latitude": 53.746111,
+                "longitude": -0.367778,
+                "country": "England"
+            },
+            {
+                "teamName": "Ipswich Town",
+                "nickname": "Ipswich",
+                "city": "Ipswich",
+                "stadium": "Portman Road",
+                "capacity": 30311,
+                "latitude": 52.055061,
+                "longitude": 1.144831,
+                "country": "England"
+            },
+            {
+                "teamName": "Leeds United",
+                "nickname": "Leeds",
+                "city": "Leeds",
+                "stadium": "Elland Road",
+                "capacity": 39460,
+                "latitude": 53.777778,
+                "longitude": -1.572222,
+                "country": "England"
+            },
+            {
+                "teamName": "Leicester City",
+                "nickname": "Leicester",
+                "city": "Leicester",
+                "stadium": "King Power Stadium",
+                "capacity": 32500,
+                "latitude": 52.620278,
+                "longitude": -1.142222,
+                "country": "England"
+            },
+            {
+                "teamName": "Middlesbrough",
+                "nickname": "Middlesbrough",
+                "city": "Middlesbrough",
+                "stadium": "Riverside Stadium",
+                "capacity": 34988,
+                "latitude": 54.578333,
+                "longitude": -1.216944,
+                "country": "England"
+            },
+            {
+                "teamName": "Millwall",
+                "nickname": "Millwall",
+                "city": "London",
+                "stadium": "The Den",
+                "capacity": 20146,
+                "latitude": 51.485953,
+                "longitude": -0.05095,
+                "country": "England"
+            },
+            {
+                "teamName": "Nottingham Forest",
+                "nickname": "Nott'm Forest",
+                "city": "Nottingham",
+                "stadium": "City Ground",
+                "capacity": 30576,
+                "latitude": 52.94,
+                "longitude": -1.132778,
+                "country": "England"
+            },
+            {
+                "teamName": "Peterborough United",
+                "nickname": "Peterboro",
+                "city": "Peterborough",
+                "stadium": "London Road Stadium",
+                "capacity": 15460,
+                "latitude": 52.564697,
+                "longitude": -0.240406,
+                "country": "England"
+            },
+            {
+                "teamName": "Portsmouth",
+                "nickname": "Portsmouth",
+                "city": "Portsmouth",
+                "stadium": "Fratton Park",
+                "capacity": 20224,
+                "latitude": 50.796389,
+                "longitude": -1.063889,
+                "country": "England"
+            },
+            {
+                "teamName": "Reading",
+                "nickname": "Reading",
+                "city": "Reading",
+                "stadium": "Madejski Stadium",
+                "capacity": 24224,
+                "latitude": 51.422222,
+                "longitude": -0.982778,
+                "country": "England"
+            },
+            {
+                "teamName": "Southampton",
+                "nickname": "Southampton",
+                "city": "Southampton",
+                "stadium": "St Mary's Stadium",
+                "capacity": 32689,
+                "latitude": 50.905833,
+                "longitude": -1.391111,
+                "country": "England"
+            },
+            {
+                "teamName": "Watford",
+                "nickname": "Watford",
+                "city": "Watford",
+                "stadium": "Vicarage Road",
+                "capacity": 23500,
+                "latitude": 51.649836,
+                "longitude": -0.401486,
+                "country": "England"
+            },
+            {
+                "teamName": "West Ham United",
+                "nickname": "West Ham",
+                "city": "London",
+                "stadium": "Boleyn Ground",
+                "capacity": 35303,
+                "latitude": 51.531944,
+                "longitude": 0.039444,
+                "country": "England"
+            },
+            {
+                "teamName": "Livingston and Gretna",
+                "nickname": "Livingston",
+                "city": "Livingston",
+                "stadium": "Almondvale Stadium",
+                "capacity": 10122,
+                "latitude": 55.886167,
+                "longitude": -3.522872,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Inverness C.T.",
+                "nickname": "Inverness C",
+                "city": "Inverness",
+                "stadium": "Caledonian Stadium",
+                "capacity": 7918,
+                "latitude": 57.494722,
+                "longitude": -4.2175,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Celtic",
+                "nickname": "Celtic",
+                "city": "Glasgow",
+                "stadium": "Celtic Park",
+                "capacity": 60832,
+                "latitude": 55.849711,
+                "longitude": -4.205589,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Dundee",
+                "nickname": "Dundee",
+                "city": "Dundee",
+                "stadium": "Dens Park",
+                "capacity": 12085,
+                "latitude": 56.475264,
+                "longitude": -2.973194,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Dunfermline Athletic",
+                "nickname": "Dunfermline",
+                "city": "Dunfermline",
+                "stadium": "East End Park",
+                "capacity": 11380,
+                "latitude": 56.075308,
+                "longitude": -3.441906,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Hibernian",
+                "nickname": "Hibernian",
+                "city": "Edinburgh",
+                "stadium": "Easter Road",
+                "capacity": 20421,
+                "latitude": 55.961667,
+                "longitude": -3.165556,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Falkirk",
+                "nickname": "Falkirk",
+                "city": "Falkirk",
+                "stadium": "Falkirk Stadium",
+                "capacity": 9200,
+                "latitude": 56.005136,
+                "longitude": -3.754269,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Motherwell and Gretna",
+                "nickname": "Motherwell",
+                "city": "Motherwell",
+                "stadium": "Fir Park",
+                "capacity": 13742,
+                "latitude": 55.779947,
+                "longitude": -3.980078,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Partick Thistle",
+                "nickname": "Partick",
+                "city": "Glasgow",
+                "stadium": "Firhill Stadium",
+                "capacity": 10887,
+                "latitude": 55.881556,
+                "longitude": -4.269639,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Rangers",
+                "nickname": "Rangers",
+                "city": "Glasgow",
+                "stadium": "Ibrox Stadium",
+                "capacity": 51082,
+                "latitude": 55.853206,
+                "longitude": -4.309258,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "St. Johnstone",
+                "nickname": "St Johnstone",
+                "city": "Perth",
+                "stadium": "McDiarmid Park",
+                "capacity": 10673,
+                "latitude": 56.409686,
+                "longitude": -3.476928,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Hamilton Academical",
+                "nickname": "Hamilton",
+                "city": "Hamilton",
+                "stadium": "New Douglas Park",
+                "capacity": 6078,
+                "latitude": 55.782156,
+                "longitude": -4.058503,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Aberdeen and Inverness C.T.",
+                "nickname": "Aberdeen",
+                "city": "Aberdeen",
+                "stadium": "Pittodrie Stadium",
+                "capacity": 22199,
+                "latitude": 57.159167,
+                "longitude": -2.088889,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Kilmarnock",
+                "nickname": "Kilmarnock",
+                "city": "Kilmarnock",
+                "stadium": "Rugby Park",
+                "capacity": 18128,
+                "latitude": 55.604225,
+                "longitude": -4.508122,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "St. Mirren",
+                "nickname": "St Mirren",
+                "city": "Paisley",
+                "stadium": "St. Mirren Park",
+                "capacity": 8016,
+                "latitude": 55.850556,
+                "longitude": -4.443889,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Dundee United",
+                "nickname": "Dundee United",
+                "city": "Dundee",
+                "stadium": "Tannadice Park",
+                "capacity": 14209,
+                "latitude": 56.474703,
+                "longitude": -2.968961,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Heart of Midlothian",
+                "nickname": "Hearts",
+                "city": "Edinburgh",
+                "stadium": "Tynecastle Stadium",
+                "capacity": 17420,
+                "latitude": 55.939167,
+                "longitude": -3.232222,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "Ross County",
+                "nickname": "Ross County",
+                "city": "Dingvall",
+                "stadium": "Victoria Park",
+                "capacity": 6310,
+                "latitude": 57.595947,
+                "longitude": -4.418914,
+                "country": "Scotland"
+            },
+            {
+                "teamName": "FC Augsburg",
+                "nickname": "Augsburg",
+                "city": "Augsburg",
+                "stadium": "SGL arena",
+                "capacity": 30660,
+                "latitude": 48.3225,
+                "longitude": 10.882222,
+                "country": "Germany"
+            },
+            {
+                "teamName": "Bayer Leverkusen",
+                "nickname": "Leverkusen",
+                "city": "Leverkusen",
+                "stadium": "BayArena",
+                "capacity": 30210,
+                "latitude": 51.038256,
+                "longitude": 7.002206,
+                "country": "Germany"
+            },
+            {
+                "teamName": "Bayern Munich",
+                "nickname": "Bayern Munich",
+                "city": "Munich",
+                "stadium": "Allianz Arena",
+                "capacity": 71000,
+                "latitude": 48.218775,
+                "longitude": 11.624753,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Borussia Dortmund",
+                "nickname": "Dortmund",
+                "city": "Dortmund",
+                "stadium": "Signal Iduna Park",
+                "capacity": 80645,
+                "latitude": 51.492569,
+                "longitude": 7.451842,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Borussia Mönchengladbach",
+                "nickname": "M'gladbach",
+                "city": "Mönchengladbach",
+                "stadium": "Borussia-Park",
+                "capacity": 54010,
+                "latitude": 51.174583,
+                "longitude": 6.385464,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Eintracht Braunschweig",
+                "nickname": "Braunschweig",
+                "city": "Braunschweig",
+                "stadium": "Eintracht-Stadion",
+                "capacity": 23325,
+                "latitude": 52.29,
+                "longitude": 10.521667,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Eintracht Frankfurt",
+                "nickname": "Ein Frankfurt",
+                "city": "Frankfurt",
+                "stadium": "Commerzbank-Arena",
+                "capacity": 51500,
+                "latitude": 50.068572,
+                "longitude": 8.645458,
+                "country": "Germany"
+              },
+              {
+                "teamName": "SC Freiburg",
+                "nickname": "Freiburg",
+                "city": "Freiburg",
+                "stadium": "MAGE SOLAR Stadion",
+                "capacity": 24000,
+                "latitude": 47.988889,
+                "longitude": 7.893056,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Hamburger SV",
+                "nickname": "Hamburg",
+                "city": "Hamburg",
+                "stadium": "Imtech Arena",
+                "capacity": 57000,
+                "latitude": 53.587158,
+                "longitude": 9.898617,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Hannover 96",
+                "nickname": "Hannover",
+                "city": "Hanover",
+                "stadium": "HDI-Arena",
+                "capacity": 49000,
+                "latitude": 52.360067,
+                "longitude": 9.731197,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Hertha BSC",
+                "nickname": "Hertha",
+                "city": "Berlin",
+                "stadium": "Olympiastadion",
+                "capacity": 74244,
+                "latitude": 52.514722,
+                "longitude": 13.239444,
+                "country": "Germany"
+              },
+              {
+                "teamName": "TSG 1899 Hoffenheim",
+                "nickname": "Hoffenheim",
+                "city": "Sinsheim",
+                "stadium": "Rhein-Neckar Arena",
+                "capacity": 30150,
+                "latitude": 49.239008,
+                "longitude": 8.888281,
+                "country": "Germany"
+              },
+              {
+                "teamName": "1. FSV Mainz 05",
+                "nickname": "Mainz",
+                "city": "Mainz",
+                "stadium": "Coface Arena",
+                "capacity": 34000,
+                "latitude": 49.984167,
+                "longitude": 8.224167,
+                "country": "Germany"
+              },
+              {
+                "teamName": "1. FC Nürnberg",
+                "nickname": "Nurnberg",
+                "city": "Nuremberg",
+                "stadium": "Grundig-Stadion",
+                "capacity": 50000,
+                "latitude": 49.426111,
+                "longitude": 11.125833,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Schalke 04",
+                "nickname": "Schalke 04",
+                "city": "Gelsenkirchen",
+                "stadium": "Veltins-Arena",
+                "capacity": 61673,
+                "latitude": 51.554503,
+                "longitude": 7.067589,
+                "country": "Germany"
+              },
+              {
+                "teamName": "VfB Stuttgart",
+                "nickname": "Stuttgart",
+                "city": "Stuttgart",
+                "stadium": "Mercedes-Benz Arena",
+                "capacity": 60441,
+                "latitude": 48.792269,
+                "longitude": 9.232031,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Werder Bremen",
+                "nickname": "Werder Bremen",
+                "city": "Bremen",
+                "stadium": "Weserstadion",
+                "capacity": 42100,
+                "latitude": 53.066394,
+                "longitude": 8.837628,
+                "country": "Germany"
+              },
+              {
+                "teamName": "VfL Wolfsburg",
+                "nickname": "Wolfsburg",
+                "city": "Wolfsburg",
+                "stadium": "Volkswagen Arena",
+                "capacity": 30000,
+                "latitude": 52.431944,
+                "longitude": 10.803889,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Fortuna Düsseldorf",
+                "nickname": "Fortuna Dusseldorf",
+                "city": "Düsseldorf",
+                "stadium": "Esprit Arena",
+                "capacity": 54600,
+                "latitude": 51.261667,
+                "longitude": 6.733056,
+                "country": "Germany"
+              },
+              {
+                "teamName": "SpVgg Greuther Fürth",
+                "nickname": "Greuther Furth",
+                "city": "Fürth",
+                "stadium": "Trolli Arena",
+                "capacity": 18000,
+                "latitude": 49.486944,
+                "longitude": 10.999167,
+                "country": "Germany"
+              },
+              {
+                "teamName": "1. FC Kaiserslautern",
+                "nickname": "Kaiserslautern",
+                "city": "Kaiserslautern",
+                "stadium": "Fritz-Walter-Stadion",
+                "capacity": 49780,
+                "latitude": 49.434722,
+                "longitude": 7.776667,
+                "country": "Germany"
+              },
+              {
+                "teamName": "1. FC Köln",
+                "nickname": "FC Koln",
+                "city": "Cologne",
+                "stadium": "RheinEnergieStadion",
+                "capacity": 50000,
+                "latitude": 50.933497,
+                "longitude": 6.874997,
+                "country": "Germany"
+              },
+              {
+                "teamName": "FC St. Pauli",
+                "nickname": "St Pauli",
+                "city": "Hamburg",
+                "stadium": "Millerntor-Stadion",
+                "capacity": 24487,
+                "latitude": 53.554444,
+                "longitude": 9.967778,
+                "country": "Germany"
+              },
+              {
+                "teamName": "Almería",
+                "nickname": "Almeria",
+                "city": "Almería",
+                "stadium": "Estadio del Mediterráneo",
+                "capacity": 22000,
+                "latitude": 36.84,
+                "longitude": -2.435278,
+                "country": "Spain"
+              },
+              {
+                "teamName": "Athletic Bilbao",
+                "nickname": "Ath Bilbao",
+                "city": "Bilbao",
+                "stadium": "San Mamés",
+                "capacity": 53332,
+                "latitude": 43.264284,
+                "longitude": -2.950366,
+                "country": "Spain"
+              },
+              {
+                "teamName": "Atlético Madrid",
+                "nickname": "Ath Madrid",
+                "city": "Madrid",
+                "stadium": "Vicente Calderón",
+                "capacity": 54851,
+                "latitude": 40.401719,
+                "longitude": -3.720606,
+                "country": "Spain"
+              },
+              {
+                "teamName": "Barcelona",
+                "nickname": "Barcelona",
+                "city": "Barcelona",
+                "stadium": "Camp Nou",
+                "capacity": 99354,
+                "latitude": 41.38087,
+                "longitude": 2.122802,
+                "country": "Spain"
+              }
+      
+    ]
+    
 }
